@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.gif" alt="Akshar Pujara" width="620"/>
+<img src="./Akshar Pujara.gif" alt="Akshar Pujara" width="620"/>
 
 <br/>
 
