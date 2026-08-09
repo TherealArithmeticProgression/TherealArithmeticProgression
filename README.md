@@ -6,8 +6,6 @@
 
 <p style="text-align: center;">Undergraduate Student & Budding Researcher.</p>
 
-<p style="text-align: center;"><i>  Thapar Institute of Engineering & Technology, India.  </i></p>
-
 
 
 </div>
