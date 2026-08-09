@@ -29,11 +29,13 @@ My interests span three areas I find persistently compelling, and increasingly, 
 
 ## Selected Projects
 
-### [EEG-Based Disease Classification](https://github.com/TherealArithmeticProgression/EEG_based_disease_classification_model)
+### [Vicinal](https://github.com/TherealArithmeticProgression/vicinal-the-ai-guardian)
 
-A machine learning pipeline for the classification of neurological conditions from raw EEG recordings. The project addresses the full signal-to-decision chain: preprocessing and artifact removal, feature extraction from time-frequency representations, and evaluation of classification architectures against clinically meaningful baselines. The central question is whether discriminative structure in neural oscillations can be reliably surfaced by learned models, and under what conditions such a system could be trusted.
+Vicinal is runtime security infrastructure for AI systems.
+It sits adjacent to your AI calls, observes them in context, and intervenes only when something is about to go wrong.
+Vicinal provides a guardian layer for developers who already use a lot of AI and know how fragile it is. It evaluates user input before calling an LLM and protects against prompt injection, data exfiltration, and restricted content requests.
 
-`Python` &nbsp; `Signal Processing` &nbsp; `Deep Learning` &nbsp; `Biomedical AI`
+`Python` &nbsp; `Deep Learning` &nbsp; `Guardrails on AI`
 
 ---
 
@@ -47,8 +49,6 @@ AEGIS-NET is an AI-powered system that analyzes aerial imagery from UAVs to iden
 
 ### [Wydey](https://github.com/TherealArithmeticProgression/Wydey)
 
-<!-- Add a description once you're ready. Suggested format:
-A brief statement of the problem Wydey addresses, the approach taken, and what makes it technically interesting. One to three sentences. -->
 
 Wydey is a progressive web application designed to map mathematical functions to geometric visualizations and audio samples. By translating abstract equations into visual formats and pairing them with instrument sounds (like Piano, Violin, Synth, and Flute), Wydey makes exploring mathematics a multisensory experience.
 
